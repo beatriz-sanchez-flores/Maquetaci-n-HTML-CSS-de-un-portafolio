@@ -5,6 +5,6 @@ este proyecto es realizado con la intencion de desarrollar exelentes paginas web
 [github](https://github.com/beatriz-sanchez-flores/Maquetaci-n-HTML-CSS-de-un-portafolio#maquetaci-n-html-css-de-un-portafolio "github")
 
 # Desarrollo
-Es muy sencillo. El propósito de un sitio web, especialmente de un sitio web de negocio, es generar respuesta. La respuesta es manifestada con algún tipo de acción por parte del visitante.
-
-En este caso apliqué 
+Es muy sencillo. El propósito de un sitio web, especialmente de un sitio web de negocio, es generar respuesta. La respuesta es manifestada con algún tio de acción por parte del visitante. 
+[![captura](captura "captura")](http://https://drive.google.com/file/d/1NUy1e55clbjBFkOMHKQW4-0OIMc8HsnS/view?usp=sharing "captura")
+ en esta imagen represento el codigo que realice en visual code , en esta parte agregaba los encabezados de cada uno de los parrafos que iva a llevar en la pagina web
