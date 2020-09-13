@@ -6,5 +6,5 @@ este proyecto es realizado con la intencion de desarrollar exelentes paginas web
 
 # Desarrollo
 Es muy sencillo. El propósito de un sitio web, especialmente de un sitio web de negocio, es generar respuesta. La respuesta es manifestada con algún tio de acción por parte del visitante. 
-[![captura](captura "captura")](http://https://drive.google.com/file/d/1NUy1e55clbjBFkOMHKQW4-0OIMc8HsnS/view?usp=sharing "captura")
- en esta imagen represento el codigo que realice en visual code , en esta parte agregaba los encabezados de cada uno de los parrafos que iva a llevar en la pagina web
+[![captura](pantalla "captura")](http://https://drive.google.com/file/d/1yUydI4Bbuc3oOLfyYVt3QNOjjJnrgh_q/view?usp=sharing "captura")
+ en esta imagen represento el codigo que realice en visual code , en esta parte agregaba los encabezados de cada uno de los parrafos que iva a llevarel sigue en la pagina  web.
