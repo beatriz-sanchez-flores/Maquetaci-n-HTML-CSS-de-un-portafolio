@@ -1,38 +1,44 @@
-# Maquetaci-n-HTML-CSS-de-un-portafolio
-# Resumen 
-este proyecto es realizado con la intencion de desarrollar exelentes paginas web
-[Página](file:///C:/Users/BEATRIS/Documents/Ingenier%C3%ADa%20wed%20I/CSS/CASES2/Maquetaci%C3%B3n%20HTML%20y%20CSS%20de%20un%20portafolio/Maquetaci-n-HTML-CSS-de-un-portafolio/index.html#Datos "Página")
-[github](https://github.com/beatriz-sanchez-flores/Maquetaci-n-HTML-CSS-de-un-portafolio#maquetaci-n-html-css-de-un-portafolio "github")
+## Maquetación de portafolio en HTML Y CSS  
 
-# Desarrollo
-Es muy sencillo. El propósito de un sitio web, especialmente de un sitio web de negocio, es generar respuesta. La respuesta es manifestada con algún tio de acción por parte del visitante. 
-####imagen1
-[![captura](pantalla "captura")](http://https://drive.google.com/file/d/1yUydI4Bbuc3oOLfyYVt3QNOjjJnrgh_q/view?usp=sharing "captura")
- en esta imagen represento el codigo que realice en visual code , en esta parte agregaba los encabezados de cada uno de los parrafos que iva a llevarel sigue en la pagina  web.
- #### imagen2
- [![captu](captu "captu")](http://https://drive.google.com/file/d/1R5Cs-uxnfjuYRqVejBsmN79bc7dTrEqw/view?usp=sharing "captu")
- ####imagen3
-En esta captura estan todos los colores y estilo de letras y tamaños de imagenes que le di a cada elemento que agregue a la pagina web
-[![captur](captur "captur")](http://https://drive.google.com/file/d/1NVB9sKL981kgFc5T-STl2yNZYemnkTU8/view?usp=sharing "captur")
-#### imagen4
-[![captura](capira "captura")](https://drive.google.com/file/d/1GsDjZBTy6nTxVKwF8I152IHgxTFEKwWt/view?usp=sharing "captura")
+Es muy sencillo. El propósito de un sitio web, especialmente de un sitio web de negocio, es generar respuesta. La respuesta es manifestada con algún tio de acción por parte del visitante.
 
-#### imagen5
-[![captura](captura "captura")](https://drive.google.com/file/d/10H6yKkIYMjbpAF6k3asq6-GQ8JpTwKGn/view?usp=sharing "captura")
+Primeramente cree dos archivos dentro de una carpeta llamada (Maquetacion) un fichero html (index.html) y un css (stile.css), el archivo (documento.md) y la carpeta (img) que contiene las imagenes que necesitaré.
+![](img/1.PNG)
 
-###Resultado
-[![captu](captur "captu")](https://drive.google.com/file/d/1IgkCNk1JrSpRgUWIcCt7ryPdoY2D39WQ/view?usp=sharing "captu")
+Ahora creamos el documento html, veremos el resultado, del documento documento html.<pre>html:5</pre>
+![](img/2.png)
 
-[![captura](captura "captura")](https://drive.google.com/file/d/1heffOSnnX9g9marUnZOHwkpYW8esLEhZ/view?usp=sharing "captura")
+head: dentro de el llamaremos a los ficheros css, acá también se agrega el título de la página
 
-###Resultado
+body: es una etiqueta que indica el cuerpo del documento donde se escriben las etiquetas con la información que se mostrara cuando entremos al navegador
 
-[![resultado](resultado "resultado")](https://drive.google.com/file/d/1Plz_L7CazPrlpUsld6H31J38aDJq9zuH/view?usp=sharing "resultado")
+### En el desarrollo del body use las etiquetas
+* html
+* div
+* nav
+* h1
+* h2
+* table
+* tr
+* head
 
-###Resultado
+### Resultado.
+Acá le agregue un encabezado un parrafo y una imagen para obtener este resultado.
+![](img/3.png) 
 
-[![resultado](resultado "resultado")](https://drive.google.com/file/d/1Plz_L7CazPrlpUsld6H31J38aDJq9zuH/view?usp=sharing "resultado")
+## HTML
+![](img/4.png)
+![](img/5.png)
+![](img/6.png)
 
-#conclucion 
+## CSS
+![](img/7.png)
+![](img/8.png)
 
-no fue tan mal resultado creo pero esto de README.md se me hizo casiimposilehacerlo, es muy importante trabajar en esto.
+## Resultado final
+
+![](img/9.png)
+![](img/10.png)
+![](img/11.png)
+
+Es muy importante la realizacion de está pagina web por que asi de esta forma aprenderemos a hacerlas de una forma profesional
